@@ -1,0 +1,11 @@
+# Site settings
+title: The Last 600
+email: lastsixhundred@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Last 600 is a new music radio show. It's simple, really. No music over 600 days old.
+  If you'd like to be featured on the show, email me your new music. I like punk rock and related music. I hope you enjoy the show. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://last600.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

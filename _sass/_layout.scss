@@ -1,0 +1,109 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2015 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Dunwich Type Founders
+ * License URL: http://www.fontspring.com/licenses/dunwich-type-founders/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'lorimer_no_2stencil';
+    src: url('/fonts/lorimerno2_stencil_macroman/Lorimer_No2_Stencil-webfont.eot');
+    src: url('/fonts/lorimerno2_stencil_macroman/Lorimer_No2_Stencil-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/lorimerno2_stencil_macroman/Lorimer_No2_Stencil-webfont.woff2') format('woff2'),
+         url('/fonts/lorimerno2_stencil_macroman/Lorimer_No2_Stencil-webfont.woff') format('woff'),
+         url('/fonts/lorimerno2_stencil_macroman/Lorimer_No2_Stencil-webfont.ttf') format('truetype'),
+         url('/fonts/lorimerno2_stencil_macroman/Lorimer_No2_Stencil-webfont.svg#lorimer_no_2stencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body {
+    background-color: #000;
+    color: #bbb;
+    font-family: 'Open Sans', sans-serif;
+    width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link {
+    color: #eee;
+    font-weight: bold;
+}
+a:visited {
+    color: #eee;
+    font-weight: bold;
+}
+header {
+    font-family: 'lorimer_no_2stencil';
+    width: 1200px;
+    height: 300px;
+    background-image: url(/images/logo.jpg);
+}
+header p#contact-us {
+    margin-left: 936px;
+    margin-top: -168px;
+}
+header p a:link {
+    text-decoration: none;
+}
+header p#title {
+    color: #ffffff;
+    font-style: italic;
+    font-size: 138px;
+    line-height: 269px;
+    display: inline;
+}
+header p span#the {
+    margin-left: 193px;
+}
+header p span#last {
+    margin-left: 36px;
+    letter-spacing: -3px;
+}
+header p#six-logo {
+    font-style: italic;
+    transform: rotate(1deg) translate(805px, -160px);
+}
+header p span#six-hundred {
+    font-size: 57px;
+    top: -41px;
+    position: relative;
+}
+header p span span#six {
+    color: #ffffff;
+}
+header p span span#zero {
+    color: #528cc8;
+}
+header p span span#zero-two {
+    color: #104e8e;
+}
+#news {
+    margin: 30px;
+    width: 700px;
+    float: left;
+}
+#playlist {
+    width: 400px;
+    float: left;
+}
+#news .album img {
+    width: 600px;
+}
