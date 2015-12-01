@@ -45,6 +45,7 @@ These ones I forgot to mention.
 
 	Deacon Bill, Drome, Jesse Dylan & The Scaredy Cats - Legion, Dec 4th
 
+	Speedy Ortiz, Aye Nako, Dirty Dishes, Gemma - Palisades, Dec 12th
 
 # Important
 Do you play music? Do you have a favourite band that you want to call out? Have a show you want me to talk about? Do you want me to make an announcement? Marriage proposal? We do that too!
