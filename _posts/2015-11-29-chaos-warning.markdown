@@ -33,7 +33,7 @@ It's slow season for show with the holidays et al. But there are some notable sh
 
 These ones I mentioned on the show. 
 
-    Teen Suicide, Yvette & Diet Cig - Baby's All Right Friday, Dec 4th
+    Teen Suicide, Yvette & Diet Cig - Baby's All Right, Dec 4th
 
     Rocket From the Tombs - Baby's All Right, Dec 6th
 
@@ -42,6 +42,8 @@ These ones I mentioned on the show.
 These ones I forgot to mention.
 
 	Flowers of Evil, Suspect & Suicide Slide - Alphaville, Dec 6th
+
+	Deacon Bill, Drome, Jesse Dylan & The Scaredy Cats - Legion, Dec 4th
 
 
 # Important
