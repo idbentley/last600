@@ -29,7 +29,7 @@ categories:
 
 # Shows
 
-It's slow season for show with the holidays et al. But there are some notable shows.
+It's slow season for shows with the holidays et al. But there are some notable shows.
 
 These ones I mentioned on the show. 
 
