@@ -15,7 +15,7 @@ categories:
 5. When You Were 25 - **[Big Eyes](http://www.bigeyesband.com/)**
 6. Yoloco - **[Dirty Few](https://www.facebook.com/Dirty-Few-141686952614269/)**
 7. Feeling Sick - **[Witch Coast](https://www.facebook.com/witchcoast)**
-8. Stallion - **[The Brainstems](https://www.facebook.com/thebrainstems)**
+8. Stallioning - **[The Brainstems](https://www.facebook.com/thebrainstems)**
 9. Read Your Mind - **[Yes I'm Leaving](https://www.facebook.com/yesimleaving)**
 10. Bored in Berlin - **[Library Voices](https://www.facebook.com/libraryvoices)**
 11. Yankee - **[HOO HAs](https://www.facebook.com/hoohasofficial)**
