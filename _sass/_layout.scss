@@ -58,7 +58,7 @@ header {
 }
 header p#contact-us {
     margin-left: 936px;
-    margin-top: -168px;
+    margin-top: -16px;
 }
 header p a:link {
     text-decoration: none;
@@ -67,19 +67,23 @@ header p#title {
     color: #ffffff;
     font-style: italic;
     font-size: 138px;
-    line-height: 269px;
-    display: inline;
+    line-height: 0;
+    display: inline-block;
 }
 header p span#the {
     margin-left: 193px;
+    vertical-align: 2px;
 }
 header p span#last {
     margin-left: 36px;
     letter-spacing: -3px;
+    vertical-align: 2px;
 }
 header p#six-logo {
     font-style: italic;
-    transform: rotate(1deg) translate(805px, -160px);
+    transform: rotate(1deg);
+    margin-top: -57px;
+    margin-left: 805px;
 }
 header p span#six-hundred {
     font-size: 57px;
