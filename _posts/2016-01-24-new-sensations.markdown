@@ -26,10 +26,13 @@ categories:
 
 
 Isn't Ours, Youth Expire, Think Tank, WoW - Silent Barn, Tuesday Jan 26
+
 Savants, Yin Yangs, Bodega Bay, Djuna - Rough Trade NYC, Thursday Jan 28
+
 Beverly, Wall, MPHO, Annie - Baby's All Right, February 5
-band - I played them a few weeks ago.
+
 Crazy & The Brains, Brett Davis, High Waisted - Le Poisson Rouge, February 6 
+
 Dead Sexy Sheila, Gentricide, Dad, Big Cheese - The Gateway, February 6
 
 
